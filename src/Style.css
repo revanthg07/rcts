@@ -1,0 +1,36 @@
+.Bx{
+    width: 1230px;
+    height: 250px;
+    background-color:blueviolet;
+
+    float: left;
+
+}
+.Bx1{
+    width: 410px;
+    height: 250px;
+    background-color: aqua;
+
+    float: left;
+
+}
+.Bx2{
+    width: 410px;
+    height: 250px;
+    background-color:greenyellow;
+
+    float: left;
+}
+.Bx3{
+    width: 410px;
+    height: 250px;
+    background-color: chartreuse;
+
+    float: left;
+}
+.Footer{
+    width: 1220px;
+    height: 80px;
+    background-color: black;
+
+}
